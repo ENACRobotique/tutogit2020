@@ -2,6 +2,7 @@
 ============================================================
 
 
+
 Une viennoiserie constituée de pâte feuilletée fourrée au chocolat s'appelle : UN PAIN AU CHOCOLAT
 
 Du coup, une viennoiserie constituée de pâte feuilletée au raisins secs s'appelle : UN PAIN AU RAISIN
@@ -10,13 +11,13 @@ Mais alors, un morceau de pain dans lequel on fourre des carrés de chocolat s'a
 
 La meilleure boisson le matin est : thé
 
-La meilleure école d'aéronautique de l'avenue Edouard Belin est : ENAC
-
 Le meilleur système d'exploitation : je ne connais que windows
+
+La meilleure école d'aéronautique de l'avenue Edouard Belin est : ENAC
 
 Le réponse à la vie, l'univers et le reste : ???
 
-..... c'est la vie !
+L'eau c'est la vie !
 
 La peine de mort c'est pas gentil
 
