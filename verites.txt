@@ -32,15 +32,15 @@ Une viennoiserie constituée de pâte feuilletée fourrée au chocolat s'appelle
 Une viennoiserie constituée de pâte feuilletée fourrée au chocolat s'appelle :chocolatine
 >>>>>>> 9626bf2515e4b1cf61a88ee0b42aff1535932f02
 
-Du coup, une viennoiserie constituée de pâte feuilletée au raisins secs s'appelle : pain au raisin
+Mais alors, un morceau de pain dans lequel on fourre des carrés de chocolat s'appelle : pain avec du chocolat
 
-Mais alors, un morceau de pain dans lequel on fourre des carrés de chocolat s'appelle : pain au chocolat
-
-La meilleure boisson le matin est : jus de fruits
+La meilleure boisson le matin est : café
 
 La meilleure école d'aéronautique de l'avenue Edouard Belin est : ENAC
 
-Le meilleur système d'exploitation : Manjaro
+Mais alors, un morceau de pain dans lequel on fourre des carrés de chocolat s'appelle : pain au chocolat
+
+Du coup, une viennoiserie constituée de pâte feuilletée au raisins secs s'appelle : de la raisine
 
 Le réponse à la vie, l'univers et le reste : 42
 
@@ -48,7 +48,7 @@ L'eau c'est la vie !
 
 La peine de mort pas bon pour la santé
 
-La meilleure série du monde : Reboot
+La meilleure série du monde : Breaking Bad
 
 La meilleure équipe de la Coupe de France de Robotique est : F.A.T. (indice, c'est l'ancienne F.A.T.)
 
