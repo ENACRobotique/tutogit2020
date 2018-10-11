@@ -5,15 +5,17 @@
 # y = (latitudeB - latitudeA)
 # d = sqrt(x**2 + y**2) * 6371
 
-
 def Findclosest:
 	pass
+
+#ajout inutile 
 
 if __name__ == '__main__':
   # Read the "defibrillateurs.csv" file
   
   # Transform the lines in sport equipments tuples
 
+  
   # Get user input coordinates
     longitude = input("longitude")
   # Find the closest tuple
