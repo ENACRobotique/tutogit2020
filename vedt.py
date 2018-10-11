@@ -5,6 +5,10 @@
 # y = (latitudeB - latitudeA)
 # d = sqrt(x**2 + y**2) * 6371
 
+
+def Findclosest:
+	pass
+
 if __name__ == '__main__':
   # Read the "defibrillateurs.csv" file
   
