@@ -15,7 +15,7 @@ if __name__ == '__main__':
 
   
   # Get user input coordinates
-
+    longitude = input("longitude")
   # Find the closest tuple
 
   # Prints its address
