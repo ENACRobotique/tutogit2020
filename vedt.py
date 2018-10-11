@@ -11,7 +11,7 @@ if __name__ == '__main__':
   # Transform the lines in sport equipments tuples
 
   # Get user input coordinates
-
+    longitude = input("longitude")
   # Find the closest tuple
 
   # Prints its address
