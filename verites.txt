@@ -1,15 +1,16 @@
 Liste de vérités avec lesquelles tout le monde est d'accord.
 ============================================================
 
+<<<<<<< HEAD
 Une viennoiserie constituée de pâte feuilletée fourrée au chocolat s'appelle : UN PAIN AU CHOCOLAT !!!!!!!
 
-Du coup, une viennoiserie constituée de pâte feuilletée au raisins secs s'appelle : un pain aux raisins
+Du coup, une viennoiserie constituée de pâte feuilletée au raisins secs s'appelle : un pain aux raisins ou raisintine
 
 Mais alors, un morceau de pain dans lequel on fourre des carrés de chocolat s'appelle : du pain avec du chocolat
 
 La meilleure boisson le matin est : le thé même si le café réveille mieux en prépa
 
-La meilleure école d'aéronautique de l'avenue Edouard Belin est : ENAC ou Sup**** ?
+La meilleure école d'aéronautique de l'avenue Edouard Belin est : ENAC
 
 Le meilleur système d'exploitation : OS X
 
@@ -19,10 +20,12 @@ La VOILE c'est la vie !
 
 La peine de mort c'est le cours de Management de projet
 
-La meilleure série du monde : surtout pas Game of Thrones !
+La meilleure série du monde : surtout pas Game of Thrones ! série de Fourier
 
 La meilleure équipe de la Coupe de France de Robotique est : les 1A de IENAC19 :) (indice: il y a un canard)
 
 Le film qu'il faut avoir vu : Retour vers le futur
+
+>>>>>>> 99791da92735eaaae8a2a6c19c965146c7ea315b
 
 Bisous !
