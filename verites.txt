@@ -2,6 +2,7 @@ Liste de vérités avec lesquelles tout le monde est d'accord.
 ============================================================
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Une viennoiserie constituée de pâte feuilletée fourrée au chocolat s'appelle : UN PAIN AU CHOCOLAT !!!!!!!
 
 Du coup, une viennoiserie constituée de pâte feuilletée au raisins secs s'appelle : un pain aux raisins ou raisintine
@@ -9,6 +10,12 @@ Du coup, une viennoiserie constituée de pâte feuilletée au raisins secs s'app
 Mais alors, un morceau de pain dans lequel on fourre des carrés de chocolat s'appelle : du pain avec du chocolat
 
 La meilleure boisson le matin est : le thé même si le café réveille mieux en prépa
+
+Une viennoiserie constituée de pâte feuilletée fourrée au chocolat s'appelle : un pain à la chocolatine
+
+Du coup, une viennoiserie constituée de pâte feuilletée au raisins secs s'appelle : un pain au raisintine
+
+Mais alors, un morceau de pain dans lequel on fourre des carrés de chocolat s'appelle : un chocolat au pain
 
 La meilleure école d'aéronautique de l'avenue Edouard Belin est : ENAC
 
@@ -26,6 +33,9 @@ La meilleure équipe de la Coupe de France de Robotique est : les 1A de IENAC19 
 
 Le film qu'il faut avoir vu : Retour vers le futur
 
->>>>>>> 99791da92735eaaae8a2a6c19c965146c7ea315b
+La meilleure équipe de la Coupe de France de Robotique est : les 1A si Marie code pas :p (indice: il y a un canard)
+
+Le film qu'il faut avoir vu : pas 2001
+
 
 Bisous !
