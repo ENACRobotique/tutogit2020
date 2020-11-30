@@ -1,6 +1,6 @@
 Liste de vérités avec lesquelles tout le monde est d'accord.
 
-<<<<<<< HEAD
+
 Une viennoiserie constituée de pâte feuilletée fourrée au chocolat s'appelle : une chocolatine
 
 Du coup, une viennoiserie constituée de pâte feuilletée au raisins secs s'appelle : raisintine
@@ -24,7 +24,7 @@ La meilleure série du monde : F.r.i.e.n.d.s.
 La meilleure équipe de la Coupe de France de Robotique est : Coin ?(indice, il y a un canard)
 
 Le film qu'il faut avoir vu : Her
-=======
+
 Une viennoiserie constituée de pâte feuilletée fourrée au chocolat s'appelle : un pain au chocolat
 
 Du coup, une viennoiserie constituée de pâte feuilletée au raisins secs s'appelle : un pain au raisins
@@ -43,13 +43,13 @@ La meilleure série du monde : GoT
 
 La meilleure équipe de la Coupe de France de Robotique est : RustyDucks (indice, il y a un canard)
 
-<<<<<<< HEAD
+
 Le film qu'il faut avoir vu : Interstellar
->>>>>>> 12682e039ba7b2785f0fa312c47550f423119cc4
-=======
+
+
 Le film qu'il faut avoir vu : Le roi lion
 
->>>>>>> c17cf99f213c60766caba4ff7d6a8e987c9b2702
+
 
 Bisous !
 
