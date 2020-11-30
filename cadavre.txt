@@ -1,11 +1,11 @@
-Le Cadavre Exquis 2020
+﻿Le Cadavre Exquis 2020
 ======================
 
 1.(Sujet) 
 
 2.(Adjectif)
 
-3.(Verbe)
+3.vend
 
 4.(Adverbe)
 
@@ -13,4 +13,4 @@ Le Cadavre Exquis 2020
 
 6.(Adjectif)
 
-7.(CC de lieu)
+7.dans la fôret amazonienne
