@@ -1,6 +1,15 @@
 Liste de vérités avec lesquelles tout le monde est d'accord.
 
+<<<<<<< HEAD
 
+=======
+<<<<<<< HEAD
+Une viennoiserie constituée de pâte feuilletée fourrée au chocolat s'appelle : un gâteau
+
+Du coup, une viennoiserie constituée de pâte feuilletée au raisins secs s'appelle : un gâteau
+=======
+<<<<<<< HEAD
+>>>>>>> ceaca66a4447bf1047503a9700b10ed33446f43c
 Une viennoiserie constituée de pâte feuilletée fourrée au chocolat s'appelle : une chocolatine
 
 Du coup, une viennoiserie constituée de pâte feuilletée au raisins secs s'appelle : raisintine
@@ -28,22 +37,42 @@ Le film qu'il faut avoir vu : Her
 Une viennoiserie constituée de pâte feuilletée fourrée au chocolat s'appelle : un pain au chocolat
 
 Du coup, une viennoiserie constituée de pâte feuilletée au raisins secs s'appelle : un pain au raisins
+>>>>>>> 4b3cef1118f15ee7991e7584ba855e0496cd8959
 
-Mais alors, un morceau de pain dans lequel on fourre des carrés de chocolat s'appelle : un pain au lait avec du chocolat
+Mais alors, un morceau de pain dans lequel on fourre des carrés de chocolat s'appelle : un gâteau
+La meilleure boisson le matin est : le café
 
 La meilleure école d'aéronautique de l'avenue Edouard Belin est : l'ENAC
 
+Le meilleur système d'exploitation : WindowsXP
+
+<<<<<<< HEAD
 Le réponse à la vie, l'univers et le reste : 42
+=======
+Git c'est la vie !
+>>>>>>> 4b3cef1118f15ee7991e7584ba855e0496cd8959
 
-La Switch c'est la vie !
+Le gras c'est la vie !
 
-La peine de mort c'est mal
+<<<<<<< HEAD
+La peine de mort c'est appeler un sac une poche
+=======
+La meilleure série du monde : the Office
+>>>>>>> 4b3cef1118f15ee7991e7584ba855e0496cd8959
 
-La meilleure série du monde : GoT
+La meilleure série du monde : Plus belle la vie
 
-La meilleure équipe de la Coupe de France de Robotique est : RustyDucks (indice, il y a un canard)
+<<<<<<< HEAD
+La meilleure équipe de la Coupe de France de Robotique est : Nous !(indice, il y a un canard)
 
+<<<<<<< HEAD
 
+=======
+Le film qu'il faut avoir vu : Rambo 2
+
+=======
+<<<<<<< HEAD
+>>>>>>> ceaca66a4447bf1047503a9700b10ed33446f43c
 Le film qu'il faut avoir vu : Interstellar
 
 
@@ -55,3 +84,4 @@ Bisous !
 
 
 P.S. Palpatine c'est un pain au .... ?
+>>>>>>> 4b3cef1118f15ee7991e7584ba855e0496cd8959
