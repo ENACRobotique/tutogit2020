@@ -1,8 +1,39 @@
 Liste de vérités avec lesquelles tout le monde est d'accord.
 
+<<<<<<< HEAD
 Une viennoiserie constituée de pâte feuilletée fourrée au chocolat s'appelle : un gâteau
 
 Du coup, une viennoiserie constituée de pâte feuilletée au raisins secs s'appelle : un gâteau
+=======
+<<<<<<< HEAD
+Une viennoiserie constituée de pâte feuilletée fourrée au chocolat s'appelle : une chocolatine
+
+Du coup, une viennoiserie constituée de pâte feuilletée au raisins secs s'appelle : raisintine
+
+Mais alors, un morceau de pain dans lequel on fourre des carrés de chocolat s'appelle : pain au chocolat
+
+La meilleure boisson le matin est : Jet
+
+La meilleure école d'aéronautique de l'avenue Edouard Belin est : ENOUC
+
+Le meilleur système d'exploitation : Linux
+
+Le réponse à la vie, l'univers et le reste : 42
+
+La covid c'est la vie !
+
+La peine de mort c'est tchétché
+
+La meilleure série du monde : F.r.i.e.n.d.s.
+
+La meilleure équipe de la Coupe de France de Robotique est : Coin ?(indice, il y a un canard)
+
+Le film qu'il faut avoir vu : Her
+=======
+Une viennoiserie constituée de pâte feuilletée fourrée au chocolat s'appelle : un pain au chocolat
+
+Du coup, une viennoiserie constituée de pâte feuilletée au raisins secs s'appelle : un pain au raisins
+>>>>>>> 4b3cef1118f15ee7991e7584ba855e0496cd8959
 
 Mais alors, un morceau de pain dans lequel on fourre des carrés de chocolat s'appelle : un gâteau
 La meilleure boisson le matin est : le café
@@ -11,15 +42,38 @@ La meilleure école d'aéronautique de l'avenue Edouard Belin est : l'ENAC
 
 Le meilleur système d'exploitation : WindowsXP
 
+<<<<<<< HEAD
 Le réponse à la vie, l'univers et le reste : 42
+=======
+Git c'est la vie !
+>>>>>>> 4b3cef1118f15ee7991e7584ba855e0496cd8959
 
 Le gras c'est la vie !
 
+<<<<<<< HEAD
 La peine de mort c'est appeler un sac une poche
+=======
+La meilleure série du monde : the Office
+>>>>>>> 4b3cef1118f15ee7991e7584ba855e0496cd8959
 
 La meilleure série du monde : Plus belle la vie
 
+<<<<<<< HEAD
 La meilleure équipe de la Coupe de France de Robotique est : Nous !(indice, il y a un canard)
 
 Le film qu'il faut avoir vu : Rambo 2
 
+=======
+<<<<<<< HEAD
+Le film qu'il faut avoir vu : Interstellar
+>>>>>>> 12682e039ba7b2785f0fa312c47550f423119cc4
+=======
+Le film qu'il faut avoir vu : Le roi lion
+
+>>>>>>> c17cf99f213c60766caba4ff7d6a8e987c9b2702
+
+Bisous !
+
+
+P.S. Palpatine c'est un pain au .... ?
+>>>>>>> 4b3cef1118f15ee7991e7584ba855e0496cd8959
