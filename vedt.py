@@ -12,7 +12,7 @@ if __name__ == '__main__':
   # Transform the lines in sport equipments tuples
 
   # Get user input coordinates
-
+  print("vivi te l'aire")
   # Find the closest tuple
 
   # Prints its address
