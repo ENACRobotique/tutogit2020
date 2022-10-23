@@ -21,3 +21,4 @@ if __name__ == '__main__':
   # Prints its address
 
   # Bonus: Loop it !
+  print("bonjour")
