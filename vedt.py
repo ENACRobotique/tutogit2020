@@ -10,6 +10,7 @@ if __name__ == '__main__':
   print("stonks")
   if (1 == 1):
     print("azertyujhgvcdserdftyghvgcfxd")
+    print("hja")
   
   # Transform the lines in sport equipments tuples
 
