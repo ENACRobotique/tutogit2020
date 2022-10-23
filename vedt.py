@@ -8,6 +8,8 @@
 if __name__ == '__main__':
   # Read the "defibrillateurs.csv" file
   print("stonks")
+  if (1 == 1):
+    print("stonks")
   
   # Transform the lines in sport equipments tuples
 
