@@ -7,6 +7,7 @@
 
 if __name__ == '__main__':
   # Read the "defibrillateurs.csv" file
+  print("stonks")
   
   # Transform the lines in sport equipments tuples
 
