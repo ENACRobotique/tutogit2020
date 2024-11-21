@@ -1,4 +1,4 @@
-from produit import Produit, Croissant
+from produit import Produit, Croissant, Pain
 
 
 class Boulangerie:
@@ -18,5 +18,8 @@ class Boulangerie:
     
     def get_croissant(self) -> Croissant | None:
         return self.getProduit(Croissant)
+
+    def get_pain(self) -> Pain | None:
+        return self.getProduit(Pain)
 
 
