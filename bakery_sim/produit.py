@@ -29,3 +29,10 @@ class Pain(Produit):
 
     def getIngredients(self):
         return ["farine","levure","eau","sel"]
+
+class Haha(Produit):
+    def __init__(self):
+        pass
+
+    def getName(self):
+        return "HAHA"
