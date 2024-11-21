@@ -30,8 +30,8 @@ class Pain(Produit):
     def getIngredients(self):
         return ["farine","levure","eau","sel"]
 
-class CroissantChocolat(Produit):
+class Chocolatine(Produit):
     def __init__(self):
         pass
     def getName(self):
-        return "Croissant au chocolat"
+        return "Chocolatine"
