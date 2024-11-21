@@ -29,3 +29,8 @@ class Pain(Produit):
 
     def getIngredients(self):
         return ["farine","levure","eau","sel"]
+    
+class Painauchocolat(Produit):
+    def __init__(self):
+        pass
+
