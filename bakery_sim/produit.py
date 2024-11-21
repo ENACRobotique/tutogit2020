@@ -13,13 +13,19 @@ class Croissant(Produit):
     def __init__(self):
         pass
 
-    def getName():
+    def getName(self):
         return "Croissant"
 
-    def getIngredients():
+    def getIngredients(self):
         return ["beurre", "sucre", "farine", "oeuf", "levure"]
 
 
 class Pain(Produit):
     def __init__(self):
         pass
+
+    def getName(self):
+        return "Pain"
+
+    def getIngredients(self):
+        return ["farine","levure","eau","sel"]
