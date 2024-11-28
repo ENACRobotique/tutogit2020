@@ -36,3 +36,11 @@ class Haha(Produit):
 
     def getName(self):
         return "HAHA"
+    
+
+class Champignon(Produit):
+    def __init__(self):
+        pass
+
+    def getName(self):
+        return "Champignon"
