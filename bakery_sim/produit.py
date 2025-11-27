@@ -23,3 +23,7 @@ class Croissant(Produit):
 class Pain(Produit):
     def __init__(self):
         pass
+
+class Chocolatine(Produit):
+    def __init__(self):
+        pass
